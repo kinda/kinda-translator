@@ -1,0 +1,17 @@
+{
+  "name": "kinda-translator",
+  "version": "0.1.0",
+  "description": "...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "kinda-config": "https://github.com/kinda/kinda-config/tarball/master",
+    "kinda-object": "^0.1.2",
+    "moment": "^2.8.3",
+    "numeral": "~1.5.3"
+  }
+}
