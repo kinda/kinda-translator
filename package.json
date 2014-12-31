@@ -13,7 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "kinda-config": "https://github.com/kinda/kinda-config/tarball/master",
+    "kinda-config": "kinda/kinda-config",
     "kinda-object": "^0.1.2",
     "moment": "^2.8.3",
     "numeral": "~1.5.3"
