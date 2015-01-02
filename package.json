@@ -17,7 +17,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "kinda-config": "kinda/kinda-config",
+    "kinda-config": "^0.2.2",
     "kinda-object": "^0.1.2",
     "moment": "^2.8.3",
     "numeral": "~1.5.3"
